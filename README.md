@@ -2,11 +2,13 @@
 
 ## Test Code Usage
 
-Please contact us separately for the weights (dtia4818@uni.sydney.edu.au). The testing script requires the weights, but otherwise can be run if the dependencies are installed through the command: python3 DRIVER.py path/to/test/images/ output_name.csv
+Please contact us separately for the weights and training code (dtia4818@uni.sydney.edu.au). The testing script requires the weights, but otherwise can be run if the dependencies are installed and the SampleSubmission.csv file is in the same directory. The weights were not uplaoded due to their size.
+
+Run it through the command: python3 DRIVER.py path/to/test/images/ output_name.csv
 
 ## Training Code
 
-Please contact us separately for training code and the weights (dtia4818@uni.sydney.edu.au). The testing script provided can be run, using the weights existing in the same directory, along with the SampleSubmission.csv file. However, the size of the weights files makes it impossible to upload. This has been built using CUDA9 and python3 on a Linux environment. 
+Please contact us at dtia4818@uni.sydney.edu.au
 
 ## Credit
 
