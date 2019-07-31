@@ -1,8 +1,12 @@
 # Sydney Innovation Challenge Submission
 
+## Test Code Usage
+
+Please contact us separately for the weights (dtia4818@uni.sydney.edu.au). The testing script requires the weights, but otherwise can be run if the dependencies are installed through the command: python3 DRIVER.py path/to/test/images/ output_name.csv
+
 ## Training Code
 
-Please contact us separately for training code and the weights(dtia4818@uni.sydney.edu.au). The testing script provided can be run, using the weights existing in the same directory, along with the SampleSubmission.csv file. However, the size of the weights files makes it impossible to upload. This has been built using CUDA9 and python3 on a Linux environment. 
+Please contact us separately for training code and the weights (dtia4818@uni.sydney.edu.au). The testing script provided can be run, using the weights existing in the same directory, along with the SampleSubmission.csv file. However, the size of the weights files makes it impossible to upload. This has been built using CUDA9 and python3 on a Linux environment. 
 
 ## Credit
 
