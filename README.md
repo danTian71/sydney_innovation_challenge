@@ -2,7 +2,7 @@
 
 ## Test Code Usage
 
-Please contact us separately for the weights and training code (dtia4818@uni.sydney.edu.au). The testing script requires the weights, but otherwise can be run if the dependencies are installed and the SampleSubmission.csv file is in the same directory. The weights were not uplaoded due to their size.
+The weights can be found at https://drive.google.com/drive/folders/1jfbeZTejgcIwyweGI8R6O4TXJZLs2cOf?usp=sharing. The testing script requires the weights in the same directory, but otherwise can be run if the dependencies are installed and the SampleSubmission.csv file is in the same directory. The weights were not uploaded on to github due to their size.
 
 Run it through the command: python3 DRIVER.py path/to/test/images/ output_name.csv
 
