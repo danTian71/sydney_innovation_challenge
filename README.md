@@ -2,7 +2,7 @@
 
 ## Training Code
 
-Please contact us separately for training code (dtia4818@uni.sydney.edu.au). The testing script provided can be run, using the weights existing in the same directory, along with the SampleSubmission.csv file. This has been built using CUDA9 and python3 on a Linux environment. 
+Please contact us separately for training code and the weights(dtia4818@uni.sydney.edu.au). The testing script provided can be run, using the weights existing in the same directory, along with the SampleSubmission.csv file. However, the size of the weights files makes it impossible to upload. This has been built using CUDA9 and python3 on a Linux environment. 
 
 ## Credit
 
